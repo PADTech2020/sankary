@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'almari';
+					src: url('/wp-content/uploads/useanyfont/3681Almari.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/3681Almari.woff') format('woff');
+				}
+
+				.almari{font-family: 'almari' !important;}
+
+				.et_gf_almari{background:none !important;font-family:almari;text-indent:0 !important;font-size:25px;}
+
+		

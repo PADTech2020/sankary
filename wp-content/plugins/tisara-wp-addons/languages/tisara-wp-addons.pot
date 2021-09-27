@@ -1,0 +1,1747 @@
+# Copyright (C) 2019 SelarasWP
+# This file is distributed under the same license as the Tisara WP Addons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tisara WP Addons 0.3.0\n"
+"Report-Msgid-Bugs-To: http://www.selaras.online\n"
+"POT-Creation-Date: 2019-08-08 08:10:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SelaRas <admin@selaras.online>\n"
+"Language-Team: SelaRas <admin@selaras.online>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: elementor-addons/elementor-addons.php:54
+msgid ""
+"Tisara Elementor Addons not working because you need to activate the "
+"Elementor plugin."
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:55
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:64
+msgid ""
+"Tisara Elementor Addons not working because you need to install the "
+"Elementor plugin"
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:65
+msgid "Install Elementor Now"
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:79
+msgid ""
+"Tisara Elementor Addons working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:80
+msgid "Update Elementor Now"
+msgstr ""
+
+#: elementor-addons/elementor-addons.php:145
+msgid "&hellip;"
+msgstr ""
+
+#: elementor-addons/plugin.php:58
+msgid "Tisara"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:22
+msgid "TS - Blog Post"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:38
+#: elementor-addons/widgets/wc-products.php:50
+msgid "- All Categories -"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:54
+msgid "Blog Post"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:61
+#: elementor-addons/widgets/wc-products.php:92
+msgid "Category"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:75
+msgid "Columns Per Row"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:91
+msgid "Number of Posts"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:101
+msgid "Hide Sticky Posts"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:103
+msgid "show"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:104
+msgid "hide"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:112
+#: elementor-addons/widgets/wc-products.php:160
+msgid "Order By"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:116
+msgid "Published Date"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:117
+#: elementor-addons/widgets/wc-products.php:165
+msgid "Title"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:118
+#: elementor-addons/widgets/wc-products.php:169
+msgid "Random"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:126
+#: elementor-addons/widgets/wc-products.php:182
+msgid "Order"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:130
+msgid "DESC (high to low)"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:131
+msgid "ASC (low to high)"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:139
+msgid "Read More Text"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:141
+#: elementor-addons/widgets/blog-post.php:142
+msgid "Read More"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:151
+msgid "Thumbnail"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:158
+msgid "Post Thumbnail"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:161
+msgid "yes"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:162
+msgid "no"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:171
+msgid "Thumbnail Size"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:181
+#: elementor-addons/widgets/wc-products.php:213
+msgid "Pagination"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:191
+#: elementor-addons/widgets/wc-products.php:220
+msgid "Show Pagination"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:193
+#: elementor-addons/widgets/blog-post.php:216
+#: elementor-addons/widgets/blog-post.php:249
+#: elementor-addons/widgets/blog-post.php:277
+#: elementor-addons/widgets/blog-post.php:290
+#: elementor-addons/widgets/blog-post.php:312
+#: elementor-addons/widgets/contact-form.php:90
+#: elementor-addons/widgets/contact-form.php:105
+#: elementor-addons/widgets/contact-form.php:120
+#: elementor-addons/widgets/content-slider.php:148
+#: elementor-addons/widgets/content-slider.php:161
+#: elementor-addons/widgets/content-slider.php:188
+#: elementor-addons/widgets/content-slider.php:201
+#: elementor-addons/widgets/content-slider.php:223
+#: elementor-addons/widgets/image-gallery.php:217
+#: elementor-addons/widgets/image-gallery.php:252
+#: elementor-addons/widgets/image-gallery.php:286
+#: elementor-addons/widgets/image-gallery.php:302
+#: elementor-addons/widgets/image-gallery.php:330
+#: elementor-addons/widgets/image-slider.php:132
+#: elementor-addons/widgets/image-slider.php:145
+#: elementor-addons/widgets/image-slider.php:174
+#: elementor-addons/widgets/image-slider.php:187
+#: elementor-addons/widgets/image-slider.php:209
+#: elementor-addons/widgets/testimonials.php:179
+#: elementor-addons/widgets/testimonials.php:214
+#: elementor-addons/widgets/testimonials.php:248
+#: elementor-addons/widgets/testimonials.php:264
+#: elementor-addons/widgets/testimonials.php:292
+#: elementor-addons/widgets/wc-products.php:202
+#: elementor-addons/widgets/wc-products.php:222
+#: elementor-addons/widgets/wc-products.php:292
+#: elementor-addons/widgets/wc-products.php:349
+#: elementor-addons/widgets/wc-products.php:383
+#: elementor-addons/widgets/wc-products.php:399
+#: elementor-addons/widgets/wc-products.php:427
+msgid "Yes"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:194
+#: elementor-addons/widgets/blog-post.php:217
+#: elementor-addons/widgets/blog-post.php:250
+#: elementor-addons/widgets/blog-post.php:278
+#: elementor-addons/widgets/blog-post.php:291
+#: elementor-addons/widgets/blog-post.php:313
+#: elementor-addons/widgets/contact-form.php:91
+#: elementor-addons/widgets/contact-form.php:106
+#: elementor-addons/widgets/contact-form.php:121
+#: elementor-addons/widgets/content-slider.php:147
+#: elementor-addons/widgets/content-slider.php:160
+#: elementor-addons/widgets/content-slider.php:189
+#: elementor-addons/widgets/content-slider.php:202
+#: elementor-addons/widgets/content-slider.php:224
+#: elementor-addons/widgets/image-gallery.php:218
+#: elementor-addons/widgets/image-gallery.php:253
+#: elementor-addons/widgets/image-gallery.php:287
+#: elementor-addons/widgets/image-gallery.php:303
+#: elementor-addons/widgets/image-gallery.php:331
+#: elementor-addons/widgets/image-slider.php:133
+#: elementor-addons/widgets/image-slider.php:146
+#: elementor-addons/widgets/image-slider.php:175
+#: elementor-addons/widgets/image-slider.php:188
+#: elementor-addons/widgets/image-slider.php:210
+#: elementor-addons/widgets/testimonials.php:180
+#: elementor-addons/widgets/testimonials.php:215
+#: elementor-addons/widgets/testimonials.php:249
+#: elementor-addons/widgets/testimonials.php:265
+#: elementor-addons/widgets/testimonials.php:293
+#: elementor-addons/widgets/wc-products.php:203
+#: elementor-addons/widgets/wc-products.php:223
+#: elementor-addons/widgets/wc-products.php:293
+#: elementor-addons/widgets/wc-products.php:350
+#: elementor-addons/widgets/wc-products.php:384
+#: elementor-addons/widgets/wc-products.php:400
+#: elementor-addons/widgets/wc-products.php:428
+msgid "No"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:204
+#: elementor-addons/widgets/content-slider.php:136
+#: elementor-addons/widgets/image-slider.php:121
+msgid "Slider Options"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:214
+#: elementor-addons/widgets/image-gallery.php:215
+#: elementor-addons/widgets/testimonials.php:176
+#: elementor-addons/widgets/wc-products.php:290
+msgid "Carousel"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:226
+#: elementor-addons/widgets/image-gallery.php:226
+#: elementor-addons/widgets/testimonials.php:188
+#: elementor-addons/widgets/wc-products.php:323
+msgid "Slides To Scroll"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:245
+#: elementor-addons/widgets/content-slider.php:143
+#: elementor-addons/widgets/image-gallery.php:248
+#: elementor-addons/widgets/image-slider.php:128
+#: elementor-addons/widgets/testimonials.php:210
+#: elementor-addons/widgets/wc-products.php:345
+msgid "Adaptive Height"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:258
+#: elementor-addons/widgets/content-slider.php:169
+#: elementor-addons/widgets/content-slider.php:460
+#: elementor-addons/widgets/image-gallery.php:264
+#: elementor-addons/widgets/image-slider.php:154
+#: elementor-addons/widgets/image-slider.php:387
+#: elementor-addons/widgets/testimonials.php:226
+#: elementor-addons/widgets/wc-products.php:361
+msgid "Navigation"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:262
+#: elementor-addons/widgets/content-slider.php:175
+#: elementor-addons/widgets/image-gallery.php:268
+#: elementor-addons/widgets/image-slider.php:158
+#: elementor-addons/widgets/testimonials.php:230
+#: elementor-addons/widgets/wc-products.php:365
+msgid "Arrows and Dots"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:263
+#: elementor-addons/widgets/blog-post.php:485
+#: elementor-addons/widgets/content-slider.php:173
+#: elementor-addons/widgets/content-slider.php:471
+#: elementor-addons/widgets/image-gallery.php:269
+#: elementor-addons/widgets/image-gallery.php:660
+#: elementor-addons/widgets/image-slider.php:159
+#: elementor-addons/widgets/image-slider.php:398
+#: elementor-addons/widgets/testimonials.php:231
+#: elementor-addons/widgets/testimonials.php:568
+#: elementor-addons/widgets/wc-products.php:366
+#: elementor-addons/widgets/wc-products.php:464
+msgid "Arrows"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:264
+#: elementor-addons/widgets/blog-post.php:541
+#: elementor-addons/widgets/content-slider.php:174
+#: elementor-addons/widgets/content-slider.php:533
+#: elementor-addons/widgets/image-gallery.php:270
+#: elementor-addons/widgets/image-gallery.php:726
+#: elementor-addons/widgets/image-slider.php:160
+#: elementor-addons/widgets/image-slider.php:460
+#: elementor-addons/widgets/testimonials.php:232
+#: elementor-addons/widgets/testimonials.php:634
+#: elementor-addons/widgets/wc-products.php:367
+#: elementor-addons/widgets/wc-products.php:529
+msgid "Dots"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:265
+#: elementor-addons/widgets/contact-form.php:79
+#: elementor-addons/widgets/content-slider.php:176
+#: elementor-addons/widgets/image-gallery.php:88
+#: elementor-addons/widgets/image-gallery.php:271
+#: elementor-addons/widgets/image-slider.php:162
+#: elementor-addons/widgets/testimonials.php:233
+#: elementor-addons/widgets/wc-products.php:368
+msgid "None"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:273
+#: elementor-addons/widgets/content-slider.php:184
+#: elementor-addons/widgets/image-gallery.php:282
+#: elementor-addons/widgets/image-slider.php:170
+#: elementor-addons/widgets/testimonials.php:244
+#: elementor-addons/widgets/wc-products.php:379
+msgid "Pause on Hover"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:286
+#: elementor-addons/widgets/content-slider.php:197
+#: elementor-addons/widgets/image-gallery.php:298
+#: elementor-addons/widgets/image-slider.php:183
+#: elementor-addons/widgets/testimonials.php:260
+#: elementor-addons/widgets/wc-products.php:395
+msgid "Autoplay"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:299
+#: elementor-addons/widgets/content-slider.php:210
+#: elementor-addons/widgets/image-gallery.php:314
+#: elementor-addons/widgets/image-slider.php:196
+#: elementor-addons/widgets/testimonials.php:276
+#: elementor-addons/widgets/wc-products.php:411
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:308
+#: elementor-addons/widgets/content-slider.php:219
+#: elementor-addons/widgets/image-gallery.php:326
+#: elementor-addons/widgets/image-slider.php:205
+#: elementor-addons/widgets/testimonials.php:288
+#: elementor-addons/widgets/wc-products.php:423
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:321
+#: elementor-addons/widgets/content-slider.php:232
+#: elementor-addons/widgets/image-slider.php:218
+#: elementor-addons/widgets/testimonials.php:304
+msgid "Effect"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:325
+#: elementor-addons/widgets/content-slider.php:236
+#: elementor-addons/widgets/image-slider.php:222
+#: elementor-addons/widgets/testimonials.php:308
+msgid "Slide"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:326
+#: elementor-addons/widgets/content-slider.php:237
+#: elementor-addons/widgets/image-slider.php:223
+#: elementor-addons/widgets/testimonials.php:309
+msgid "Fade"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:334
+#: elementor-addons/widgets/content-slider.php:245
+#: elementor-addons/widgets/image-gallery.php:342
+#: elementor-addons/widgets/image-slider.php:231
+#: elementor-addons/widgets/testimonials.php:320
+#: elementor-addons/widgets/wc-products.php:439
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:345
+msgid "Posts Grid"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:356
+#: elementor-addons/widgets/image-gallery.php:364
+#: elementor-addons/widgets/testimonials.php:371
+msgid "Item Gap"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:381
+msgid "Post Title"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:389
+#: elementor-addons/widgets/blog-post.php:420
+#: elementor-addons/widgets/blog-post.php:451
+#: elementor-addons/widgets/contact-form.php:441
+#: elementor-addons/widgets/contact-form.php:472
+#: elementor-addons/widgets/contact-form.php:570
+#: elementor-addons/widgets/contact-form.php:650
+#: elementor-addons/widgets/content-slider.php:264
+#: elementor-addons/widgets/content-slider.php:295
+#: elementor-addons/widgets/content-slider.php:326
+#: elementor-addons/widgets/content-slider.php:386
+#: elementor-addons/widgets/content-slider.php:423
+#: elementor-addons/widgets/image-gallery.php:599
+#: elementor-addons/widgets/image-gallery.php:627
+#: elementor-addons/widgets/image-slider.php:364
+#: elementor-addons/widgets/testimonials.php:404
+#: elementor-addons/widgets/testimonials.php:459
+#: elementor-addons/widgets/testimonials.php:492
+msgid "Text Color"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:401
+#: elementor-addons/widgets/blog-post.php:432
+#: elementor-addons/widgets/blog-post.php:463
+#: elementor-addons/widgets/contact-form.php:453
+#: elementor-addons/widgets/contact-form.php:484
+#: elementor-addons/widgets/contact-form.php:582
+#: elementor-addons/widgets/content-slider.php:276
+#: elementor-addons/widgets/content-slider.php:307
+#: elementor-addons/widgets/content-slider.php:339
+#: elementor-addons/widgets/image-slider.php:376
+msgid "Typography"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:412
+msgid "Post Excerpt"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:443
+msgid "Read More Link"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:473
+#: elementor-addons/widgets/image-gallery.php:648
+#: elementor-addons/widgets/testimonials.php:557
+#: elementor-addons/widgets/wc-products.php:453
+msgid "Slider / Navigation"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:494
+#: elementor-addons/widgets/content-slider.php:519
+#: elementor-addons/widgets/image-gallery.php:672
+#: elementor-addons/widgets/image-slider.php:446
+#: elementor-addons/widgets/testimonials.php:580
+#: elementor-addons/widgets/wc-products.php:476
+msgid "Arrows Color"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:505
+#: elementor-addons/widgets/content-slider.php:483
+#: elementor-addons/widgets/image-gallery.php:686
+#: elementor-addons/widgets/image-slider.php:410
+#: elementor-addons/widgets/testimonials.php:594
+#: elementor-addons/widgets/wc-products.php:490
+msgid "Arrows Position"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:509
+#: elementor-addons/widgets/blog-post.php:577
+#: elementor-addons/widgets/content-slider.php:487
+#: elementor-addons/widgets/content-slider.php:549
+#: elementor-addons/widgets/image-gallery.php:690
+#: elementor-addons/widgets/image-gallery.php:771
+#: elementor-addons/widgets/image-slider.php:414
+#: elementor-addons/widgets/image-slider.php:476
+#: elementor-addons/widgets/testimonials.php:598
+#: elementor-addons/widgets/testimonials.php:679
+#: elementor-addons/widgets/wc-products.php:494
+#: elementor-addons/widgets/wc-products.php:574
+msgid "Inside"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:510
+#: elementor-addons/widgets/blog-post.php:576
+#: elementor-addons/widgets/content-slider.php:488
+#: elementor-addons/widgets/content-slider.php:550
+#: elementor-addons/widgets/image-gallery.php:691
+#: elementor-addons/widgets/image-gallery.php:770
+#: elementor-addons/widgets/image-slider.php:415
+#: elementor-addons/widgets/image-slider.php:477
+#: elementor-addons/widgets/testimonials.php:599
+#: elementor-addons/widgets/testimonials.php:678
+#: elementor-addons/widgets/wc-products.php:495
+#: elementor-addons/widgets/wc-products.php:573
+msgid "Outside"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:521
+#: elementor-addons/widgets/content-slider.php:499
+#: elementor-addons/widgets/image-gallery.php:703
+#: elementor-addons/widgets/image-slider.php:426
+#: elementor-addons/widgets/testimonials.php:611
+#: elementor-addons/widgets/wc-products.php:506
+msgid "Arrows Size"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:550
+#: elementor-addons/widgets/content-slider.php:581
+#: elementor-addons/widgets/image-gallery.php:738
+#: elementor-addons/widgets/image-slider.php:508
+#: elementor-addons/widgets/testimonials.php:646
+#: elementor-addons/widgets/wc-products.php:541
+msgid "Dots Color"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:561
+#: elementor-addons/widgets/image-gallery.php:752
+#: elementor-addons/widgets/testimonials.php:660
+#: elementor-addons/widgets/wc-products.php:555
+msgid "Dots Color (active)"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:572
+#: elementor-addons/widgets/content-slider.php:545
+#: elementor-addons/widgets/image-gallery.php:766
+#: elementor-addons/widgets/image-slider.php:472
+#: elementor-addons/widgets/testimonials.php:674
+#: elementor-addons/widgets/wc-products.php:569
+msgid "Dots Position"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:732
+msgid "Prev"
+msgstr ""
+
+#: elementor-addons/widgets/blog-post.php:733
+msgid "Next"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:22
+msgid "TS - Contact Form"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:38
+#: elementor-addons/widgets/contact-form.php:402
+msgid "Contact Form"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:45
+msgid "Form Labels"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:47
+#: elementor-addons/widgets/contact-form.php:60
+msgid "Show"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:48
+#: elementor-addons/widgets/contact-form.php:61
+msgid "Hide"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:58
+msgid "Form Placeholders"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:70
+msgid "Show Email & Phone"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:75
+msgid "Email & Phone"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:76
+msgid "Phone & Email"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:77
+#: elementor-addons/widgets/contact-form.php:242
+#: elementor-addons/widgets/contact-form.php:243
+#: elementor-addons/widgets/contact-form.php:252
+#: elementor-addons/widgets/contact-form.php:253
+#: elementor-addons/widgets/contact-form.php:286
+msgid "Email"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:78
+#: elementor-addons/widgets/contact-form.php:285
+#: elementor-addons/widgets/contact-form.php:295
+#: elementor-addons/widgets/contact-form.php:296
+msgid "Phone"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:87
+msgid "Inline Name & Email field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:102
+msgid "Inline Name & Phone field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:117
+msgid "Inline Email & Phone field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:132
+msgid "Email To"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:143
+msgid "Email Subject"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:144
+msgid "You can use %site%, %name%, %email%, %phone% to personalize email subject."
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:146
+#: elementor-addons/widgets/contact-form.php:817
+msgid "[%site%] New message from %name% %email% %phone%"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:155
+msgid "Success Message"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:157
+#: elementor-addons/widgets/contact-form.php:699
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:166
+msgid "Validation Error Message"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:168
+#: elementor-addons/widgets/contact-form.php:709
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:177
+msgid "Technical Error Message (NOT SENT)"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:179
+#: elementor-addons/widgets/contact-form.php:704
+msgid ""
+"There were technical error while submitting the form. Sorry for the "
+"inconvenience."
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:190
+msgid "Name Field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:197
+#: elementor-addons/widgets/contact-form.php:240
+#: elementor-addons/widgets/contact-form.php:283
+#: elementor-addons/widgets/contact-form.php:323
+msgid "Label"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:199
+#: elementor-addons/widgets/contact-form.php:200
+#: elementor-addons/widgets/contact-form.php:209
+#: elementor-addons/widgets/contact-form.php:210
+#: elementor-addons/widgets/testimonials.php:81
+#: elementor-addons/widgets/testimonials.php:450
+msgid "Name"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:207
+#: elementor-addons/widgets/contact-form.php:250
+#: elementor-addons/widgets/contact-form.php:293
+#: elementor-addons/widgets/contact-form.php:333
+msgid "Placeholder"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:217
+#: elementor-addons/widgets/contact-form.php:260
+#: elementor-addons/widgets/contact-form.php:343
+msgid "Invalid Message"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:219
+#: elementor-addons/widgets/contact-form.php:220
+#: elementor-addons/widgets/contact-form.php:721
+msgid "Please enter your name"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:230
+msgid "Email Field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:262
+#: elementor-addons/widgets/contact-form.php:263
+#: elementor-addons/widgets/contact-form.php:728
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:273
+msgid "Phone Field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:303
+msgid "Invalid Phone Number"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:305
+#: elementor-addons/widgets/contact-form.php:306
+#: elementor-addons/widgets/contact-form.php:736
+msgid "Please enter your valid phone number"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:316
+msgid "Message Field"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:325
+#: elementor-addons/widgets/contact-form.php:326
+#: elementor-addons/widgets/contact-form.php:335
+#: elementor-addons/widgets/contact-form.php:336
+msgid "Message"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:345
+#: elementor-addons/widgets/contact-form.php:346
+#: elementor-addons/widgets/contact-form.php:743
+msgid "Please enter your message"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:356
+msgid "Submit Button"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:363
+msgid "Text"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:365
+#: elementor-addons/widgets/contact-form.php:366
+#: elementor-addons/widgets/contact-form.php:751
+msgid "Submit"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:373
+#: elementor-addons/widgets/wc-products.php:231
+msgid "Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:378
+#: elementor-addons/widgets/image-gallery.php:484
+#: elementor-addons/widgets/image-gallery.php:533
+#: elementor-addons/widgets/image-slider.php:285
+#: elementor-addons/widgets/testimonials.php:148
+#: elementor-addons/widgets/testimonials.php:346
+#: elementor-addons/widgets/wc-products.php:235
+msgid "Left"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:382
+#: elementor-addons/widgets/image-gallery.php:488
+#: elementor-addons/widgets/image-gallery.php:537
+#: elementor-addons/widgets/image-slider.php:289
+#: elementor-addons/widgets/testimonials.php:350
+#: elementor-addons/widgets/wc-products.php:239
+msgid "Center"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:386
+#: elementor-addons/widgets/testimonials.php:358
+msgid "Justified"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:390
+#: elementor-addons/widgets/image-gallery.php:492
+#: elementor-addons/widgets/image-gallery.php:541
+#: elementor-addons/widgets/image-slider.php:293
+#: elementor-addons/widgets/testimonials.php:156
+#: elementor-addons/widgets/testimonials.php:354
+#: elementor-addons/widgets/wc-products.php:243
+msgid "Right"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:410
+msgid "Container Max Width (px)"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:433
+msgid "Form Label (If Available)"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:464
+msgid "Form Input / Textarea"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:493
+#: elementor-addons/widgets/contact-form.php:591
+#: elementor-addons/widgets/contact-form.php:661
+#: elementor-addons/widgets/content-slider.php:408
+#: elementor-addons/widgets/content-slider.php:445
+#: elementor-addons/widgets/image-gallery.php:555
+#: elementor-addons/widgets/image-slider.php:353
+msgid "Background Color"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:505
+#: elementor-addons/widgets/contact-form.php:607
+msgid "Border"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:515
+#: elementor-addons/widgets/contact-form.php:617
+#: elementor-addons/widgets/content-slider.php:364
+#: elementor-addons/widgets/image-gallery.php:404
+#: elementor-addons/widgets/image-gallery.php:578
+#: elementor-addons/widgets/testimonials.php:535
+msgid "Border Radius"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:527
+#: elementor-addons/widgets/contact-form.php:629
+msgid "Text Padding"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:539
+msgid "Field Margin"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:553
+msgid "Form Button"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:563
+#: elementor-addons/widgets/content-slider.php:381
+msgid "Normal"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:643
+#: elementor-addons/widgets/content-slider.php:418
+msgid "Hover"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:672
+#: elementor-addons/widgets/content-slider.php:397
+#: elementor-addons/widgets/content-slider.php:434
+msgid "Border Color"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:683
+msgid "Animation"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:856
+#: elementor-addons/widgets/contact-form.php:873
+msgid "IP Address:"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:857
+#: elementor-addons/widgets/contact-form.php:874
+msgid "User Agent:"
+msgstr ""
+
+#: elementor-addons/widgets/contact-form.php:859
+msgid "Page:"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:22
+msgid "TS - Content Slider"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:42
+#: elementor-addons/widgets/content-slider.php:100
+#: elementor-addons/widgets/image-slider.php:43
+#: elementor-addons/widgets/image-slider.php:82
+msgid "Slider Items"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:51
+msgid "Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:53
+msgid "Slider Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:61
+#: mega-menus/mega-menus-walker-edit.php:170
+msgid "Description"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:63
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea "
+"commodo consequat."
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:71
+msgid "Button"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:73
+#: elementor-addons/widgets/content-slider.php:107
+#: elementor-addons/widgets/content-slider.php:114
+#: elementor-addons/widgets/content-slider.php:121
+msgid "Click Me"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:80
+#: elementor-addons/widgets/image-slider.php:73
+msgid "Link"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:82
+#: elementor-addons/widgets/image-gallery.php:100
+#: elementor-addons/widgets/image-slider.php:75
+msgid "http://your-link.com"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:89
+#: elementor-addons/widgets/image-gallery.php:356
+#: elementor-addons/widgets/image-slider.php:52
+#: elementor-addons/widgets/testimonials.php:518
+msgid "Image"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:105
+msgid "Slider 1 Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:112
+msgid "Slider 2 Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:119
+msgid "Slider 3 Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:156
+#: elementor-addons/widgets/image-slider.php:141
+msgid "Image Stretch"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:256
+msgid "Slide Heading"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:287
+msgid "Slide Description"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:318
+msgid "Slide Button"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:347
+msgid "Border Width"
+msgstr ""
+
+#: elementor-addons/widgets/content-slider.php:561
+#: elementor-addons/widgets/image-slider.php:488
+msgid "Dots Size"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:26
+msgid "TS - Image Gallery"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:45
+#: elementor-addons/widgets/image-gallery.php:133
+msgid "Images"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:52
+#: elementor-addons/widgets/image-slider.php:252
+#: elementor-addons/widgets/testimonials.php:50
+msgid "Columns"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:73
+#: elementor-addons/widgets/testimonials.php:101
+msgid "Choose Image"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:84
+#: elementor-addons/widgets/image-gallery.php:98
+msgid "Link to"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:89
+msgid "Media File"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:90
+msgid "Custom URL"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:111
+#: elementor-addons/widgets/image-gallery.php:590
+#: elementor-addons/widgets/image-slider.php:63
+msgid "Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:113
+msgid "Enter your image caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:114
+msgid "Input image caption here"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:122
+#: elementor-addons/widgets/image-gallery.php:618
+msgid "Sub Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:124
+msgid "Enter your image sub caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:125
+msgid "Input image sub caption here"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:189
+#: elementor-addons/widgets/image-slider.php:111
+msgid "Image Size"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:197
+msgid "View"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:208
+#: elementor-addons/widgets/testimonials.php:169
+#: elementor-addons/widgets/wc-products.php:259
+#: elementor-addons/widgets/wc-products.php:280
+msgid "Slider / Carousel Options"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:387
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:396
+#: elementor-addons/widgets/testimonials.php:527
+msgid "Image Border"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:426
+msgid "Caption Box (Image Overlay)"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:434
+msgid "Background Type"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:444
+#: elementor-addons/widgets/image-slider.php:341
+#: elementor-addons/widgets/testimonials.php:428
+msgid "Margin"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:456
+#: elementor-addons/widgets/image-gallery.php:566
+#: elementor-addons/widgets/image-slider.php:329
+msgid "Padding"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:470
+msgid "Caption Text"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:478
+#: elementor-addons/widgets/image-slider.php:279
+msgid "Horizontal Position"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:503
+#: elementor-addons/widgets/image-slider.php:304
+msgid "Vertical Position"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:509
+#: elementor-addons/widgets/image-slider.php:310
+#: elementor-addons/widgets/testimonials.php:152
+msgid "Top"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:513
+#: elementor-addons/widgets/image-slider.php:314
+msgid "Middle"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:517
+#: elementor-addons/widgets/image-slider.php:318
+msgid "Bottom"
+msgstr ""
+
+#: elementor-addons/widgets/image-gallery.php:528
+msgid "Text Align"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:23
+msgid "TS - Image Slider"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:65
+msgid "Slider Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:88
+msgid "Slider 1 Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:93
+msgid "Slider 2 Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:98
+msgid "Slider 3 Caption"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:161
+msgid "Image Thumbnail"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:242
+msgid "Thumbnail Image Options"
+msgstr ""
+
+#: elementor-addons/widgets/image-slider.php:271
+msgid "Image Caption"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:24
+msgid "TS - Testimonials"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:43
+#: elementor-addons/widgets/testimonials.php:334
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:71
+msgid "Testimonisl"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:73
+msgid "Your Quote"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:83
+msgid "Your Name"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:91
+msgid "Job Position"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:93
+msgid "Your Position"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:112
+#: elementor-addons/widgets/testimonials.php:396
+msgid "Testimonial"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:143
+msgid "Image Position"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:342
+msgid "Testimonials Alignment"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:442
+msgid "Name & Job"
+msgstr ""
+
+#: elementor-addons/widgets/testimonials.php:483
+msgid "Job"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:21
+msgid "TS - WooCommerce Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:67
+msgid "Products Setting"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:74
+msgid "Filter By"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:78
+msgid "All Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:79
+msgid "Featured Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:80
+msgid "On-sale Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:81
+msgid "Best Selling Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:82
+msgid "Top Rated Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:83
+msgid "Products In A Category"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:111
+msgid "Number of Products Per Row"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:125
+msgid "Number of Products Per Row (Mobile)"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:126
+msgid "For mobile only, when device viewport width <= 480px"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:149
+msgid "Number of Products To Show"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:164
+msgid "Date"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:166
+msgid "Price"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:167
+msgid "Popularity"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:168
+msgid "Rating"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:170
+msgid "Menu Order"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:186
+msgid "Descending (Z - A)"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:187
+msgid "Ascending (A - Z)"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:200
+msgid "Hide Free Products"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:270
+msgid "Slider / Carousel Options are not available because Paginations is active!"
+msgstr ""
+
+#: elementor-addons/widgets/wc-products.php:301
+msgid "Slides To Show"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:79
+#. translators: %s: title of menu item which is invalid
+msgid "%s (Invalid)"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:83
+#. translators: %s: title of menu item in draft status
+msgid "%s (Pending)"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:107
+msgid "Move up"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:120
+msgid "Move down"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:122
+#: mega-menus/mega-menus-walker-edit.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:133
+msgid "URL"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:172
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:180
+msgid "Mega Menu"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:191
+msgid "Background"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:198
+msgid "Background Position"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:210
+msgid "Fullwidth Mega Menu"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:211
+msgid "Make the Mega Menu Fullwidth?"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:223
+msgid "Menu Icon"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:237
+msgid "Original: %s"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:250
+msgid "Remove"
+msgstr ""
+
+#: mega-menus/mega-menus-walker-edit.php:251
+msgid "Cancel"
+msgstr ""
+
+#: metabox/setup-metabox.php:23
+msgid "- Select Item -"
+msgstr ""
+
+#: metabox/setup-metabox.php:36
+msgid "Page Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:43
+msgid "Sidebar Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:46 metabox/setup-metabox.php:73
+#: metabox/setup-metabox.php:124 metabox/setup-metabox.php:155
+msgid "Default"
+msgstr ""
+
+#: metabox/setup-metabox.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: metabox/setup-metabox.php:48
+msgid "Left Sidebar"
+msgstr ""
+
+#: metabox/setup-metabox.php:49
+msgid "No Sidebar (Full Width)"
+msgstr ""
+
+#: metabox/setup-metabox.php:57
+msgid "Header Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:64
+msgid "Elementor Header Before Theme Header"
+msgstr ""
+
+#: metabox/setup-metabox.php:66 metabox/setup-metabox.php:89
+#: metabox/setup-metabox.php:117 metabox/setup-metabox.php:138
+msgid "- Select Elementor Templates -"
+msgstr ""
+
+#: metabox/setup-metabox.php:70
+msgid "Theme Header Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:74
+msgid "Header Style 1"
+msgstr ""
+
+#: metabox/setup-metabox.php:75
+msgid "Header Style 2"
+msgstr ""
+
+#: metabox/setup-metabox.php:76
+msgid "Header Style 3"
+msgstr ""
+
+#: metabox/setup-metabox.php:77
+msgid "Header Style 4"
+msgstr ""
+
+#: metabox/setup-metabox.php:78
+msgid "Header Style 5"
+msgstr ""
+
+#: metabox/setup-metabox.php:79
+msgid "Header Style 6"
+msgstr ""
+
+#: metabox/setup-metabox.php:80
+msgid "Header Style 7"
+msgstr ""
+
+#: metabox/setup-metabox.php:81
+msgid "Header Style 8"
+msgstr ""
+
+#: metabox/setup-metabox.php:82
+msgid "Hide Theme Header"
+msgstr ""
+
+#: metabox/setup-metabox.php:87
+msgid "Elementor Header After Theme Header"
+msgstr ""
+
+#: metabox/setup-metabox.php:93 metabox/setup-metabox.php:94
+msgid "Header Hero / Page Title"
+msgstr ""
+
+#: metabox/setup-metabox.php:94 metabox/setup-metabox.php:100
+msgid "HIDE %s"
+msgstr ""
+
+#: metabox/setup-metabox.php:99 metabox/setup-metabox.php:100
+msgid "Breadcrumb"
+msgstr ""
+
+#: metabox/setup-metabox.php:108
+msgid "Footer Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:115
+msgid "Elementor Footer Before Theme Footer"
+msgstr ""
+
+#: metabox/setup-metabox.php:121
+msgid "Theme Footer Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:125
+msgid "Footer Style 1"
+msgstr ""
+
+#: metabox/setup-metabox.php:126
+msgid "Footer Style 2"
+msgstr ""
+
+#: metabox/setup-metabox.php:127
+msgid "Footer Style 3"
+msgstr ""
+
+#: metabox/setup-metabox.php:128
+msgid "Footer Style 4"
+msgstr ""
+
+#: metabox/setup-metabox.php:129
+msgid "Footer Style 5"
+msgstr ""
+
+#: metabox/setup-metabox.php:130
+msgid "Footer Style 6"
+msgstr ""
+
+#: metabox/setup-metabox.php:131
+msgid "Hide Theme Footer"
+msgstr ""
+
+#: metabox/setup-metabox.php:136
+msgid "Elementor Footer After Theme Footer"
+msgstr ""
+
+#: metabox/setup-metabox.php:145
+msgid "Blog Page Template"
+msgstr ""
+
+#: metabox/setup-metabox.php:152
+msgid "Blog Layout"
+msgstr ""
+
+#: metabox/setup-metabox.php:156
+msgid "List View (Left Image)"
+msgstr ""
+
+#: metabox/setup-metabox.php:157
+msgid "List View (Right Image)"
+msgstr ""
+
+#: metabox/setup-metabox.php:158
+msgid "Grid View (2 Columns)"
+msgstr ""
+
+#: metabox/setup-metabox.php:159
+msgid "Grid View (3 Columns)"
+msgstr ""
+
+#: metabox/setup-metabox.php:160
+msgid "Featured Image + Excerpt (Summary)"
+msgstr ""
+
+#: metabox/setup-metabox.php:161
+msgid "Excerpt (Summary)"
+msgstr ""
+
+#: metabox/setup-metabox.php:162
+msgid "Featured Image + Full Content"
+msgstr ""
+
+#: metabox/setup-metabox.php:163
+msgid "Full Content"
+msgstr ""
+
+#: metabox/setup-metabox.php:168
+msgid "Number of Posts Per Page"
+msgstr ""
+
+#: optimizations/customizer.php:8
+msgid "Optimizations"
+msgstr ""
+
+#: optimizations/customizer.php:18
+msgid "Disable WordPress Responsive Images"
+msgstr ""
+
+#: optimizations/customizer.php:26
+msgid "Disable WordPress Emojis"
+msgstr ""
+
+#: optimizations/customizer.php:34
+msgid "Disable WordPress generator on document header"
+msgstr ""
+
+#: optimizations/customizer.php:42
+msgid "Disable Windows Live Writer link on document header"
+msgstr ""
+
+#: optimizations/customizer.php:50
+msgid "Disable Really Simple Discovery link on document header"
+msgstr ""
+
+#: optimizations/customizer.php:58
+msgid "Disable Shortlink on document header"
+msgstr ""
+
+#: optimizations/customizer.php:66
+msgid "Disable Relational Links on document header"
+msgstr ""
+
+#: optimizations/customizer.php:75
+msgid "Disable Automatic Feed Links on document header"
+msgstr ""
+
+#: optimizations/customizer.php:84
+msgid "Disable REST API Links on document header"
+msgstr ""
+
+#: optimizations/customizer.php:93
+msgid "Disable oEmbed discovery links on document header"
+msgstr ""
+
+#: optimizations/customizer.php:102
+msgid "Enable Defer Parsing Javascript"
+msgstr ""
+
+#: optimizations/customizer.php:110
+msgid "Remove Query String"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Tisara WP Addons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://tisara.selaraswp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Required Plugins For Tisara WP Premium WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SelarasWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.selaraswp.com"
+msgstr ""
+
+#: elementor-addons/controls/background.php:30
+msgctxt "Background Control"
+msgid "None"
+msgstr ""
+
+#: elementor-addons/controls/background.php:34
+msgctxt "Background Control"
+msgid "Classic"
+msgstr ""
+
+#: elementor-addons/controls/background.php:38
+msgctxt "Background Control"
+msgid "Gradient"
+msgstr ""
+
+#: elementor-addons/controls/background.php:48
+msgctxt "Background Control"
+msgid "Background Type"
+msgstr ""
+
+#: elementor-addons/controls/background.php:54
+msgctxt "Background Control"
+msgid "Color"
+msgstr ""
+
+#: elementor-addons/controls/background.php:57
+msgctxt "Background Control"
+msgid "Background Color"
+msgstr ""
+
+#: elementor-addons/controls/background.php:67
+#: elementor-addons/controls/background.php:93
+msgctxt "Background Control"
+msgid "Location"
+msgstr ""
+
+#: elementor-addons/controls/background.php:82
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr ""
+
+#: elementor-addons/controls/background.php:108
+msgctxt "Background Control"
+msgid "Type"
+msgstr ""
+
+#: elementor-addons/controls/background.php:111
+msgctxt "Background Control"
+msgid "Linear"
+msgstr ""
+
+#: elementor-addons/controls/background.php:112
+msgctxt "Background Control"
+msgid "Radial"
+msgstr ""
+
+#: elementor-addons/controls/background.php:123
+msgctxt "Background Control"
+msgid "Angle"
+msgstr ""
+
+#: elementor-addons/controls/background.php:146
+msgctxt "Background Control"
+msgid "Position"
+msgstr ""
+
+#: elementor-addons/controls/background.php:149
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: elementor-addons/controls/background.php:150
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: elementor-addons/controls/background.php:151
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: elementor-addons/controls/background.php:152
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: elementor-addons/controls/background.php:153
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: elementor-addons/controls/background.php:154
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: elementor-addons/controls/background.php:155
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor-addons/controls/background.php:156
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor-addons/controls/background.php:157
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""

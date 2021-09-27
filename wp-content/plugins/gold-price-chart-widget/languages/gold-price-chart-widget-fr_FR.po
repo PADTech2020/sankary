@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gold Price Widget\n"
+"POT-Creation-Date: 2018-04-13 18:11-0600\n"
+"PO-Revision-Date: 2019-05-06 16:10-0600\n"
+"Last-Translator: \n"
+"Language-Team: Goldbroker.com <seo@goldbroker.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gold-price-chart-widget.php:201 ../gold-price-chart-widget.php:258
+#: ../gold-price-chart-widget.php:313
+msgid "Title"
+msgstr "Titre"
+
+#: ../gold-price-chart-widget.php:206 ../gold-price-chart-widget.php:263
+#: ../gold-price-chart-widget.php:318
+msgid "Select currency"
+msgstr "Devise"
+
+#: ../gold-price-chart-widget.php:221
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../gold-price-chart-widget.php:226 ../gold-price-chart-widget.php:279
+msgid "Width"
+msgstr "Largeur"
+
+#: ../gold-price-chart-widget.php:237 ../gold-price-chart-widget.php:290
+#: ../gold-price-chart-widget.php:340
+msgid "www.goldbroker.com"
+msgstr "or.fr"
+
+#: ../gold-price-chart-widget.php:237 ../gold-price-chart-widget.php:290
+msgid "by"
+msgstr "par"
+
+#: ../gold-price-chart-widget.php:237 ../gold-price-chart-widget.php:290
+msgid "Goldbroker.com"
+msgstr "Or.fr"
+
+#: ../gold-price-chart-widget.php:351
+msgid "Live Silver Price"
+msgstr "Cours de l'argent"
+
+#: ../gold-price-chart-widget.php:352 ../gold-price-chart-widget.php:434
+msgid "Silver Price"
+msgstr "Cours de l'argent"
+
+#: ../gold-price-chart-widget.php:353
+msgid "Live silver price chart"
+msgstr "Graphique du cours de l'argent en direct"
+
+#: ../gold-price-chart-widget.php:368
+msgid "Live Gold Price"
+msgstr "Cours de l'or"
+
+#: ../gold-price-chart-widget.php:369 ../gold-price-chart-widget.php:448
+msgid "Gold Price"
+msgstr "Cours de l'or"
+
+#: ../gold-price-chart-widget.php:370
+msgid "Live gold price chart"
+msgstr "Graphique du cours de l'or"
+
+#: ../gold-price-chart-widget.php:385
+msgid "Live Palladium Price"
+msgstr "Cours du palladium"
+
+#: ../gold-price-chart-widget.php:386 ../gold-price-chart-widget.php:463
+msgid "Palladium Price"
+msgstr "Cours du palladium"
+
+#: ../gold-price-chart-widget.php:387
+msgid "Live palladium price chart"
+msgstr "Graphique du cours du palladium"
+
+#: ../gold-price-chart-widget.php:402
+msgid "Live Platinum Price"
+msgstr "Cours du platine"
+
+#: ../gold-price-chart-widget.php:403 ../gold-price-chart-widget.php:477
+msgid "Platinum Price"
+msgstr "Cours du platine"
+
+#: ../gold-price-chart-widget.php:404
+msgid "Live platinum price chart"
+msgstr "Graphique du cours du platine"
+
+#: ../gold-price-chart-widget.php:419 ../gold-price-chart-widget.php:420
+msgid "Precious Metals Spot Prices"
+msgstr "Cours des métaux précieux"
+
+#: ../gold-price-chart-widget.php:421
+msgid "Gold, Silver, Palladium and Platinum spot prices and daily change"
+msgstr ""
+"Cours de l'or, de l'argent, du Palladium, du platine et performance "
+"journalière"
+
+#: ../gold-price-chart-widget.php:433 ../gold-price-chart-widget.php:435
+msgid "Live 1 ounce Silver Price"
+msgstr "Prix d'une once d'argent"
+
+#: ../gold-price-chart-widget.php:447 ../gold-price-chart-widget.php:449
+msgid "Live 1 ounce Gold Price"
+msgstr "Prix d'une once d'or"
+
+#: ../gold-price-chart-widget.php:462 ../gold-price-chart-widget.php:464
+msgid "Live 1 ounce Palladium Price"
+msgstr "Prix d'une once de palladium"
+
+#: ../gold-price-chart-widget.php:476 ../gold-price-chart-widget.php:478
+msgid "Live 1 ounce Platinum Price"
+msgstr "Prix d'une once de platine"
+
+#, fuzzy
+#~ msgid "Title:"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "width"
+#~ msgstr "Largeur"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select taxonomy"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Post Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Select Icon"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Width/None"
+#~ msgstr "Largeur"
+
+#, fuzzy
+#~ msgid "Selector"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Live Preview"
+#~ msgstr "Cours de l'or"
+
+#, fuzzy
+#~ msgid "Untitled"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Light"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Price"
+#~ msgstr "Cours de l'or"
+
+#, fuzzy
+#~ msgid "Right"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Subtitle"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Title Style"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Currency"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select Product"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select action"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Go Pricing"
+#~ msgstr "Cours de l'or"
+
+#, fuzzy
+#~ msgid "Media Width"
+#~ msgstr "Largeur"
+
+#, fuzzy
+#~ msgid "Silver"
+#~ msgstr "Cours de l'argent"
+
+#, fuzzy
+#~ msgid "Select icon library."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select icon color."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select columns count."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Map height"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Animated pie chart"
+#~ msgstr "Graphique du cours de l'or"
+
+#, fuzzy
+#~ msgid "Select area color."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select custom area color."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Line and Bar charts"
+#~ msgstr "Graphique du cours de l'or"
+
+#, fuzzy
+#~ msgid "Select tour shape."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select tour color."
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "no title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "No title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Select none"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "right"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Regular Price"
+#~ msgstr "Cours de l'argent"
+
+#, fuzzy
+#~ msgid "Sale Price"
+#~ msgstr "Cours de l'argent"
+
+#, fuzzy
+#~ msgid "Weight"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Flight"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Height mode"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Edit Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Link Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "height"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Date sale price starts"
+#~ msgstr "Graphique du cours de l'argent en direct"
+
+#, fuzzy
+#~ msgid "Width (%s)"
+#~ msgstr "Largeur"
+
+#, fuzzy
+#~ msgid "Height (%s)"
+#~ msgstr "Hauteur"
+
+#, fuzzy
+#~ msgid "Sale price"
+#~ msgstr "Cours de l'argent"
+
+#, fuzzy
+#~ msgid "Select some countries"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Selected countries"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select a category"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Filter by price"
+#~ msgstr "Cours de l'argent"
+
+#, fuzzy
+#~ msgid "SEO Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "%s Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Select redirect"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select profile"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Select category"
+#~ msgstr "Devise"
+
+#, fuzzy
+#~ msgid "Page Title"
+#~ msgstr "Titre"
+
+#, fuzzy
+#~ msgid "Job Title"
+#~ msgstr "Titre"

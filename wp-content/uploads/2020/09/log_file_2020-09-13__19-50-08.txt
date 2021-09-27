@@ -1,0 +1,143 @@
+
+---Downloaded files---
+The import files for: Tisara Demo were successfully downloaded!
+Initial max execution time = 200
+Files info:
+Site URL = https://sankarigold.com
+Data file = /home/i5fg2t752dy7/public_html/wp-content/uploads/2020/09/demo-content-import-file_2020-09-13__19-50-08.xml
+Widget file = /home/i5fg2t752dy7/public_html/wp-content/uploads/2020/09/demo-widgets-import-file_2020-09-13__19-50-08.json
+Customizer file = /home/i5fg2t752dy7/public_html/wp-content/uploads/2020/09/demo-customizer-import-file_2020-09-13__19-50-08.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Calendar - Calendar - Imported
+
+Footer #1 : 
+
+Text - Sarah Theme - Imported
+
+Footer #2 : 
+
+Recent Posts - Recent Post - Imported
+
+Footer #3 : 
+
+Products - Featured Product - Imported
+
+Footer #4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Calendar - Calendar - Widget already exists
+
+Footer #1 : 
+
+Text - Sarah Theme - Widget already exists
+
+Footer #2 : 
+
+Recent Posts - Recent Post - Widget already exists
+
+Footer #3 : 
+
+Products - Featured Product - Widget already exists
+
+Footer #4 : 
+
+Gallery - Gallery - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

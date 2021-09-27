@@ -1,0 +1,140 @@
+2020-03-10T09:21:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:21:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:21:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:21:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:22:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:23:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:24:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+
+2020-03-10T09:24:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_current_screen() in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php:220
+Stack trace:
+#0 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(99): WC_Admin_Page_Controller->get_current_screen_id()
+#1 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(197): WC_Admin_Page_Controller->determine_current_page()
+#2 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php(337): WC_Admin_Page_Controller->get_current_page()
+#3 /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/page-controller-functions.php(38): WC_Admin_Page_C in /var/www/vhosts/custom-made.axiomthemes.com/httpdocs/wp-content/plugins/woocommerce-admin/includes/page-controller/class-wc-admin-page-controller.php on line 220
+

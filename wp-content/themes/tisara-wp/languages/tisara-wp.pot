@@ -1,0 +1,2336 @@
+# Copyright (C) 2019 SelarasWP
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tisara WP 0.9.0\n"
+"Report-Msgid-Bugs-To: https://www.selaras.online/\n"
+"POT-Creation-Date: 2019-09-18 06:10:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SelaRas <admin@selaras.online>\n"
+"Language-Team: SelaRas <admin@selaras.online>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: templates/content/content-notfound.php:19
+msgid "404"
+msgstr ""
+
+#: comments.php:15 includes/customizer/customizer-37-comments.php:54
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:19 includes/customizer/customizer-37-comments.php:61
+msgid "%s Comments"
+msgstr ""
+
+#: comments.php:23 includes/customizer/customizer-37-comments.php:96
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:27 includes/customizer/customizer-37-comments.php:103
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:31 includes/customizer/customizer-37-comments.php:110
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:35 includes/customizer/customizer-37-comments.php:117
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:39 includes/customizer/customizer-37-comments.php:131
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:43 includes/customizer/customizer-37-comments.php:124
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:47 includes/customizer/customizer-37-comments.php:138
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:51 includes/customizer/customizer-37-comments.php:145
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:55 includes/customizer/customizer-37-comments.php:152
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:59 includes/customizer/customizer-37-comments.php:159
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Pingback:"
+msgstr ""
+
+#: comments.php:72 comments.php:92 includes/functions/function-helpers.php:151
+#: templates/content/content-page.php:19
+#: templates/content/content-single.php:22
+msgid "Edit"
+msgstr ""
+
+#: comments.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:141 comments.php:155
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:143 comments.php:157
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:144 comments.php:158
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:169
+msgid "Comments are closed."
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:8
+msgid "Basic Fonts & Colors / Typography"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:16
+msgid "Body Text"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:23
+#: includes/customizer/customizer-11-typography.php:249
+#: includes/customizer/customizer-11-typography.php:273
+#: includes/customizer/customizer-11-typography.php:304
+#: includes/customizer/customizer-11-typography.php:328
+#: includes/customizer/customizer-31-blog.php:62
+#: includes/customizer/customizer-31-blog.php:234
+#: includes/customizer/customizer-31-blog.php:261
+#: includes/customizer/customizer-31-blog.php:299
+#: includes/customizer/customizer-33-single.php:63
+#: includes/customizer/customizer-33-single.php:183
+#: includes/customizer/customizer-woocommerce.php:92
+#: includes/customizer/customizer-woocommerce.php:122
+#: includes/customizer/customizer-woocommerce.php:168
+#: includes/customizer/customizer-woocommerce.php:192
+#: includes/customizer/customizer-woocommerce.php:223
+#: includes/customizer/customizer-woocommerce.php:247
+#: includes/customizer/customizer-woocommerce.php:599
+#: includes/customizer/customizer-woocommerce.php:629
+#: includes/customizer/customizer-woocommerce.php:882
+#: includes/customizer/customizer-woocommerce.php:912
+#: includes/customizer/customizer-woocommerce.php:1170
+#: includes/customizer/customizer-woocommerce.php:1194
+#: includes/customizer/customizer-woocommerce.php:1358
+#: includes/customizer/customizer-woocommerce.php:1382
+msgid "Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:31
+msgid "Body Font Family"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:40
+msgid "Body Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:54
+msgid "Body Font Weight"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:59
+#: includes/customizer/customizer-11-typography.php:118
+msgid "default"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:71
+msgid "Link Text"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:78
+#: includes/customizer/customizer-11-typography.php:86
+msgid "Link Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:86
+#: includes/customizer/customizer-11-typography.php:257
+#: includes/customizer/customizer-11-typography.php:265
+#: includes/customizer/customizer-11-typography.php:273
+#: includes/customizer/customizer-31-blog.php:243
+#: includes/customizer/customizer-31-blog.php:252
+#: includes/customizer/customizer-31-blog.php:261
+#: includes/customizer/customizer-woocommerce.php:176
+#: includes/customizer/customizer-woocommerce.php:184
+#: includes/customizer/customizer-woocommerce.php:192
+#: includes/customizer/customizer-woocommerce.php:231
+#: includes/customizer/customizer-woocommerce.php:239
+#: includes/customizer/customizer-woocommerce.php:247
+#: includes/customizer/customizer-woocommerce.php:609
+#: includes/customizer/customizer-woocommerce.php:619
+#: includes/customizer/customizer-woocommerce.php:629
+#: includes/customizer/customizer-woocommerce.php:892
+#: includes/customizer/customizer-woocommerce.php:902
+#: includes/customizer/customizer-woocommerce.php:912
+#: includes/customizer/customizer-woocommerce.php:1178
+#: includes/customizer/customizer-woocommerce.php:1186
+#: includes/customizer/customizer-woocommerce.php:1194
+#: includes/customizer/customizer-woocommerce.php:1366
+#: includes/customizer/customizer-woocommerce.php:1374
+#: includes/customizer/customizer-woocommerce.php:1382
+msgid "(Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:94
+msgid "Heading Text"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:101
+msgid "Heading Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:109
+msgid "Heading Font Family"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:132
+msgid "Heading Font Weight"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:142
+msgid "Heading H1 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:156
+msgid "Heading H2 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:170
+msgid "Heading H3 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:184
+msgid "Heading H4 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:198
+msgid "Heading H5 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:212
+msgid "Heading H6 Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:226
+msgid "Basic Button Style"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:233
+#: includes/customizer/customizer-11-typography.php:257
+#: includes/customizer/customizer-11-typography.php:288
+#: includes/customizer/customizer-11-typography.php:320
+#: includes/customizer/customizer-11-typography.php:368
+#: includes/customizer/customizer-11-typography.php:392
+#: includes/customizer/customizer-31-blog.php:216
+#: includes/customizer/customizer-31-blog.php:243
+#: includes/customizer/customizer-woocommerce.php:84
+#: includes/customizer/customizer-woocommerce.php:114
+#: includes/customizer/customizer-woocommerce.php:152
+#: includes/customizer/customizer-woocommerce.php:176
+#: includes/customizer/customizer-woocommerce.php:207
+#: includes/customizer/customizer-woocommerce.php:231
+#: includes/customizer/customizer-woocommerce.php:579
+#: includes/customizer/customizer-woocommerce.php:609
+#: includes/customizer/customizer-woocommerce.php:862
+#: includes/customizer/customizer-woocommerce.php:892
+#: includes/customizer/customizer-woocommerce.php:1154
+#: includes/customizer/customizer-woocommerce.php:1178
+#: includes/customizer/customizer-woocommerce.php:1342
+#: includes/customizer/customizer-woocommerce.php:1366
+msgid "Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:241
+#: includes/customizer/customizer-11-typography.php:265
+#: includes/customizer/customizer-11-typography.php:296
+#: includes/customizer/customizer-11-typography.php:376
+#: includes/customizer/customizer-31-blog.php:225
+#: includes/customizer/customizer-31-blog.php:252
+#: includes/customizer/customizer-woocommerce.php:160
+#: includes/customizer/customizer-woocommerce.php:184
+#: includes/customizer/customizer-woocommerce.php:215
+#: includes/customizer/customizer-woocommerce.php:239
+#: includes/customizer/customizer-woocommerce.php:589
+#: includes/customizer/customizer-woocommerce.php:619
+#: includes/customizer/customizer-woocommerce.php:872
+#: includes/customizer/customizer-woocommerce.php:902
+#: includes/customizer/customizer-woocommerce.php:1162
+#: includes/customizer/customizer-woocommerce.php:1186
+#: includes/customizer/customizer-woocommerce.php:1350
+#: includes/customizer/customizer-woocommerce.php:1374
+msgid "Border Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:281
+msgid "Search Form"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:312
+msgid "Placeholder Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:320
+#: includes/customizer/customizer-11-typography.php:328
+msgid "Button"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:336
+#: includes/customizer/customizer-31-blog.php:341
+#: includes/customizer/customizer-31-blog.php:342
+#: includes/customizer/customizer-woocommerce.php:639
+#: includes/customizer/customizer-woocommerce.php:640
+msgid "Pagination Style"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:343
+#: includes/customizer/customizer-31-blog.php:70
+#: includes/customizer/customizer-31-blog.php:160
+#: includes/customizer/customizer-31-blog.php:199
+#: includes/customizer/customizer-31-blog.php:308
+#: includes/customizer/customizer-33-single.php:71
+#: includes/customizer/customizer-33-single.php:192
+msgid "Alignment"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:360
+#: includes/customizer/customizer-11-typography.php:384
+msgid "Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-11-typography.php:384
+#: includes/customizer/customizer-11-typography.php:392
+msgid "(Active & Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:8
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:17
+msgid "Elementor Header Before"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:18
+msgid "Note: Before Theme Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:21
+#: includes/customizer/customizer-21-header.php:50
+#: includes/customizer/customizer-23-footer.php:21
+#: includes/customizer/customizer-23-footer.php:46
+msgid "- Select Elementor Templates -"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:27
+msgid "Theme Header Layout"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:31
+msgid "Header Style 1"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:32
+msgid "Header Style 2"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:33
+msgid "Header Style 3"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:34
+msgid "Header Style 4"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:35
+msgid "Header Style 5"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:36
+msgid "Header Style 6"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:37
+msgid "Header Style 7"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:38
+msgid "Header Style 8"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:39
+msgid "Hide Theme Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:46
+msgid "Elementor Header After"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:47
+msgid "Note: After Theme Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:57
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:65
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:74
+msgid "Header Top (Contact & Social)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:82
+msgid "Hide Header Top (Contact & Social)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:91
+msgid "Header Top - Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:101
+msgid "Header Top - Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:111
+msgid "Header Top - Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:121
+msgid "Header Top - Link Color (Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:131
+msgid "Hide Header Text"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:141
+msgid "Header Text"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:152
+msgid "Hide Header Phone"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:162
+msgid "Header Phone"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:173
+msgid "Hide Header Email"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:183
+msgid "Header Email"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:194
+msgid "Hide Header Social Icons"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:204
+msgid "Header Social Icons"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:206
+#: includes/customizer/customizer-23-footer.php:230
+msgid "Facebook"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:207
+#: includes/customizer/customizer-23-footer.php:231
+msgid "Twitter"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:208
+#: includes/customizer/customizer-23-footer.php:232
+msgid "Youtube"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:209
+#: includes/customizer/customizer-23-footer.php:233
+msgid "Instagram"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:210
+#: includes/customizer/customizer-23-footer.php:234
+msgid "Pinterest"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:211
+#: includes/customizer/customizer-23-footer.php:235
+msgid "RSS Feed"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:212
+#: includes/customizer/customizer-23-footer.php:236
+msgid "Email"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:222
+#: includes/customizer/customizer-23-footer.php:245
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:234
+#: includes/customizer/customizer-23-footer.php:256
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:246
+#: includes/customizer/customizer-23-footer.php:267
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:258
+#: includes/customizer/customizer-23-footer.php:278
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:270
+#: includes/customizer/customizer-23-footer.php:289
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:282
+#: includes/customizer/customizer-23-footer.php:300
+msgid "RSS Feed URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:294
+#: includes/customizer/customizer-23-footer.php:311
+msgid "Email Address"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:306
+msgid "Header Bottom (Logo & Menu)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:314
+msgid "Header Bottom - Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:324
+msgid "Header Bottom - Menu Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:334
+msgid "Header Bottom - Menu Color (Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:344
+msgid "Header Bottom - Menu Border (Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:354
+msgid "Header Logo Type"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:358
+msgid "Logo Image"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:359
+msgid "Logo Text"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:369
+#: includes/customizer/customizer-21-header.php:379
+#: includes/customizer/customizer-21-header.php:417
+#: includes/customizer/customizer-23-footer.php:193
+#: includes/customizer/customizer-31-blog.php:342
+#: includes/customizer/customizer-woocommerce.php:640
+msgid "CLICK HERE to setup %s"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:369
+msgid "Site Logo Image"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:379
+#: includes/setup/setup-theme.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:388
+msgid "Hide Header Search"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:397
+msgid "Hide Header Cart"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:405
+msgid "Header Cart Count Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:417
+#: includes/setup/setup-theme.php:35
+msgid "Secondary Menu"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:426
+msgid "Banner Image"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:435
+msgid "Banner URL"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:447
+msgid "Header Hero (Page Title)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:455
+msgid "Hide Header Hero (Page Title)"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:464
+msgid "Page Title For Blog Page"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:466
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:476
+msgid "Page Title Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:486
+msgid "Page Title Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:496
+msgid "Page Title Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:512
+msgid "Page Title Top Padding"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:528
+msgid "Page Title Bottom Padding"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:544
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:553
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:562
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-21-header.php:572
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:9
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:17
+msgid "Elementor Footer Before"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:18
+msgid "Note: Before Theme Footer"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:26
+msgid "Theme Footer Layout"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:30
+msgid "Footer Style 1"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:31
+msgid "Footer Style 2"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:32
+msgid "Footer Style 3"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:33
+msgid "Footer Style 4"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:34
+msgid "Footer Style 5"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:35
+msgid "Footer Style 6"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:36
+msgid "Hide Theme Footer"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:42
+msgid "Elementor Footer After"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:43
+msgid "Note: After Theme Footer"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:52
+msgid "Footer Top (Widgets Area)"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:54
+msgid "CLICK HERE to setup / manage widgets when footer widgets is available"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:62
+msgid "Hide Footer Top (Widgets Area)"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:70
+msgid "Footer Top - Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:79
+msgid "Footer Top - Widget Title Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:88
+msgid "Footer Top - Widget Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:97
+msgid "Footer Top - Widget Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:107
+msgid "Footer Bottom (Credits & Info)"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:114
+msgid "Hide Footer Bottom (Credits & Info)"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:122
+msgid "Footer Bottom - Background Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:131
+msgid "Footer Bottom - Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:140
+msgid "Footer Bottom - Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:149
+msgid "Footer Bottom - Link Color (Hover)"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:158
+msgid "Footer Bottom - Separator Line Color"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:167
+msgid "Hide Footer Logo"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:175
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:183
+msgid "Hide Footer Menu"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:193
+#: includes/setup/setup-theme.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:200
+msgid "Hide Footer Text"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:209
+msgid "Footer Text"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:211
+msgid "Copyright &copy; %s %s"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:219
+msgid "Hide Footer Social Icons"
+msgstr ""
+
+#: includes/customizer/customizer-23-footer.php:228
+msgid "Footer Social Icons"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Page"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:16
+#: includes/customizer/customizer-33-single.php:16
+#: includes/customizer/customizer-33-single.php:31
+#: includes/customizer/customizer-35-page.php:16
+#: includes/customizer/customizer-35-page.php:31
+#: includes/customizer/customizer-woocommerce.php:275
+#: includes/customizer/customizer-woocommerce.php:285
+#: includes/customizer/customizer-woocommerce.php:668
+#: includes/customizer/customizer-woocommerce.php:678
+msgid "Sidebar Layout"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:18
+#: includes/customizer/customizer-31-blog.php:353
+#: includes/customizer/customizer-33-single.php:21
+#: includes/customizer/customizer-35-page.php:21
+#: includes/customizer/customizer-woocommerce.php:277
+#: includes/customizer/customizer-woocommerce.php:670
+msgid "CLICK HERE to setup / manage widgets when sidebar is available"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:28
+#: includes/customizer/customizer-33-single.php:33
+#: includes/customizer/customizer-35-page.php:33
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:30
+#: includes/customizer/customizer-33-single.php:34
+#: includes/customizer/customizer-35-page.php:34
+#: includes/customizer/customizer-woocommerce.php:291
+#: includes/customizer/customizer-woocommerce.php:684
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:31
+#: includes/customizer/customizer-33-single.php:35
+#: includes/customizer/customizer-35-page.php:35
+#: includes/customizer/customizer-woocommerce.php:292
+#: includes/customizer/customizer-woocommerce.php:685
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:32
+#: includes/customizer/customizer-33-single.php:36
+#: includes/customizer/customizer-35-page.php:36
+#: includes/customizer/customizer-woocommerce.php:290
+#: includes/customizer/customizer-woocommerce.php:683
+msgid "No Sidebar (Full Width)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:40
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:42
+#: includes/customizer/customizer-33-single.php:273
+msgid "List View (Left Image)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:43
+#: includes/customizer/customizer-33-single.php:274
+msgid "List View (Right Image)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:44
+#: includes/customizer/customizer-33-single.php:271
+msgid "Grid View (2 Columns)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:45
+#: includes/customizer/customizer-33-single.php:272
+msgid "Grid View (3 Columns)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:46
+msgid "Featured Image + Excerpt (Summary)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:47
+msgid "Excerpt (Summary)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:48
+msgid "Featured Image + Full Content"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:49
+msgid "Full Content"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:55
+#: includes/customizer/customizer-33-single.php:56
+msgid "Title"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:87
+#: includes/customizer/customizer-31-blog.php:326
+#: includes/customizer/customizer-33-single.php:88
+#: includes/customizer/customizer-33-single.php:210
+#: includes/customizer/customizer-woocommerce.php:563
+#: includes/customizer/customizer-woocommerce.php:846
+#: includes/customizer/customizer-woocommerce.php:1140
+#: includes/customizer/customizer-woocommerce.php:1328
+msgid "Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:101
+#: includes/customizer/customizer-33-single.php:102
+msgid "Font Weight"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:107
+#: includes/customizer/customizer-31-blog.php:123
+#: includes/customizer/customizer-33-single.php:108
+#: includes/customizer/customizer-33-single.php:124
+msgid "Normal"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:108
+#: includes/customizer/customizer-33-single.php:109
+msgid "Bold"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:117
+#: includes/customizer/customizer-33-single.php:118
+msgid "Font Style"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:124
+#: includes/customizer/customizer-33-single.php:125
+msgid "Italic"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:133
+#: includes/customizer/customizer-33-single.php:134
+msgid "Text Transform"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:139
+#: includes/customizer/customizer-33-single.php:140
+msgid "None"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:140
+#: includes/customizer/customizer-33-single.php:141
+msgid "Uppercase"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:141
+#: includes/customizer/customizer-33-single.php:142
+msgid "Lowercase"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:142
+#: includes/customizer/customizer-33-single.php:143
+msgid "Capitalize"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:153
+msgid "Content / Excerpt"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:177
+msgid "More Link"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:184
+msgid "Show \"Continue Reading &rarr;\" more link (if available on current layout)"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:191
+#: includes/customizer/customizer-37-comments.php:54
+#: includes/customizer/customizer-37-comments.php:61
+#: includes/customizer/customizer-37-comments.php:75
+#: includes/customizer/customizer-37-comments.php:82
+#: includes/customizer/customizer-37-comments.php:96
+#: includes/customizer/customizer-37-comments.php:103
+#: includes/customizer/customizer-37-comments.php:110
+#: includes/customizer/customizer-37-comments.php:117
+#: includes/customizer/customizer-37-comments.php:124
+#: includes/customizer/customizer-37-comments.php:131
+#: includes/customizer/customizer-37-comments.php:138
+#: includes/customizer/customizer-37-comments.php:145
+#: includes/customizer/customizer-37-comments.php:152
+#: includes/customizer/customizer-37-comments.php:159
+msgid "Change Text: \"%s\""
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:191
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:270
+#: includes/customizer/customizer-33-single.php:154
+msgid "Post Meta"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:277
+msgid "Show post meta"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:284
+#: includes/customizer/customizer-33-single.php:168
+msgid "Post Meta Items"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:289
+#: includes/customizer/customizer-33-single.php:173
+msgid "Stiky Label"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:290
+#: includes/customizer/customizer-33-single.php:174
+msgid "Post Date"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:291
+#: includes/customizer/customizer-33-single.php:175
+msgid "Post Categories"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:292
+#: includes/customizer/customizer-33-single.php:176
+msgid "Post Tags"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:293
+#: includes/customizer/customizer-33-single.php:177
+msgid "Post Author"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:351
+#: includes/customizer/customizer-33-single.php:306
+#: includes/customizer/customizer-35-page.php:75
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:360
+msgid "Sidebar - Widget Title Color"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:368
+msgid "Sidebar - Widget Text Color"
+msgstr ""
+
+#: includes/customizer/customizer-31-blog.php:376
+msgid "Sidebar - Widget Link Color"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:9
+msgid "Single Post"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:18
+msgid ""
+"This layout can be overrided per single basis. If this setting does not "
+"work for specific single, please check \"Page Layout\" setting when editing "
+"this single post."
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:42
+#: includes/customizer/customizer-35-page.php:42
+msgid "Featured Image"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:49
+#: includes/customizer/customizer-35-page.php:49
+msgid "Show featured image (if available)"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:161
+msgid "Show single meta"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:225
+#: templates/content/parts/extra-tags.php:18
+msgid "Tags"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:232
+msgid "Hide post tags (if available) after post content"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:239
+msgid "Prev & Next Posts Navigation"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:246
+msgid "Hide prev & next posts navigation (if available) after post content"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:253
+#: templates/content/parts/related.php:59
+msgid "Related Posts"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:260
+msgid "Hide Related Posts"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:269
+msgid "Related Posts Layout"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:282
+msgid "Number Related Posts To Show"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:287
+#: includes/customizer/customizer-35-page.php:56
+#: includes/customizer/customizer-37-comments.php:8
+msgid "Comments"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:289
+#: includes/customizer/customizer-35-page.php:58
+msgid "CLICK HERE to change text on comments area."
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:297
+#: includes/customizer/customizer-35-page.php:66
+msgid "Show comments (if enabled on current page)"
+msgstr ""
+
+#: includes/customizer/customizer-33-single.php:308
+#: includes/customizer/customizer-35-page.php:77
+msgid "CLICK HERE to setup Sidebar widgets style"
+msgstr ""
+
+#: includes/customizer/customizer-35-page.php:9
+msgid "Single Page"
+msgstr ""
+
+#: includes/customizer/customizer-35-page.php:18
+msgid ""
+"This layout can be overrided per single basis. If this setting does not "
+"work for specific single, please check \"Page Layout\" setting when editing "
+"this page."
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:10
+msgid "CLICK HERE to show/hide comments on single post."
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:10
+msgid "CLICK HERE to show/hide comments on single page."
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:19
+msgid "Comment Form - Textarea Field"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:26
+msgid "Reverse Comment Textarea To The Bottom (Below Name, Email, URL)"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:33
+msgid "Comment Form - Web URL Field"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:40
+msgid "Hide Comment URL (Website) Field"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:47
+msgid "Comment Title Text"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:68
+msgid "Comment Reply Text"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:75
+msgid "Reply"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:82
+msgid "Log in to Reply"
+msgstr ""
+
+#: includes/customizer/customizer-37-comments.php:89
+msgid "Comment Form Text"
+msgstr ""
+
+#: includes/customizer/customizer-91-scripts.php:9
+msgid "Header & Footer Scripts"
+msgstr ""
+
+#: includes/customizer/customizer-91-scripts.php:18
+msgid "Custom Header Script"
+msgstr ""
+
+#: includes/customizer/customizer-91-scripts.php:25
+msgid "Custom Footer Script"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:17
+msgid "CLICK HERE to go to \"Theme Settings - WooCommerce\" panel."
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:20
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:36
+msgid "Theme Settings - WooCommerce"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:52
+msgid "WC - General"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:60
+msgid "WC Store Notice"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:62
+msgid "CLICK HERE to setup WooCommerce Store Notice"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:70
+msgid "WC Sale Flash Badge"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:77
+msgid "Sale Flash Badge Text"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:100
+msgid "WC Sold Out Badge"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:107
+msgid "Sold Out Badge Text"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:130
+msgid "WC Rating"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:137
+msgid "Rating Color"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:145
+msgid "WC Button (Default)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:200
+msgid "WC Button Alt (Primary)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:264
+msgid "WC - Shop Page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:266
+msgid ""
+"WooCommerce \"Shop\" page does not use standard WordPress page. It can not "
+"be edited by visual page builder plugin, including Elementor."
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:297
+msgid "Shop Page Layout"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:299
+msgid ""
+"CLICK HERE to setup Shop page display, Category display, and Default "
+"product sorting on Product Catalog settings"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:307
+msgid "DISABLE result count"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:314
+msgid "DISABLE catalog ordering"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:321
+msgid "Number of products per row"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:336
+msgid "Number of products per row (mobile)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:337
+msgid "For mobile only, when device viewport width <= 480px"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:353
+msgid "Number of products per page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:360
+msgid "Shop Page Product Image"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:362
+msgid "CLICK HERE to setup Thumbnail Width for products in the catalog (shop page)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:370
+msgid "Shop Page Elements"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:377
+#: includes/customizer/customizer-woocommerce.php:697
+msgid "DISABLE product sale flash"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:384
+msgid "DISABLE product title"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:391
+msgid "TRUNCATE product title (one line only)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:398
+#: includes/customizer/customizer-woocommerce.php:711
+msgid "DISABLE product price"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:405
+#: includes/customizer/customizer-woocommerce.php:704
+msgid "DISABLE product rating"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:412
+msgid "Product Detail Alignment"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:429
+msgid "Product Box Background"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:437
+msgid "Product Box Border"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:445
+#: includes/customizer/customizer-woocommerce.php:732
+msgid "Product Title Color"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:453
+msgid "Product Title Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:467
+#: includes/customizer/customizer-woocommerce.php:740
+msgid "Product Price Color"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:475
+msgid "Product Price Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:489
+msgid "Product Sale Price Font Size"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:503
+#: includes/customizer/customizer-woocommerce.php:791
+msgid "\"Add to cart\" Button"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:511
+#: includes/customizer/customizer-woocommerce.php:799
+msgid "DISABLE \"add to cart\" button"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:519
+#: includes/customizer/customizer-woocommerce.php:820
+msgid "Button Style"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:524
+#: includes/customizer/customizer-woocommerce.php:825
+msgid "Inline"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:525
+#: includes/customizer/customizer-woocommerce.php:826
+msgid "Full Width"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:536
+msgid "Button Text: Simple Product"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:545
+msgid "Button Text: Variable Product"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:554
+msgid "Button Text: OutOfStock Product"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:657
+msgid "WC - Single Product"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:659
+msgid "These settings are applied on All %s"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:659
+#: includes/setup/setup-woocommerce.php:67
+msgid "Single Product"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:690
+msgid "Single Product Elements"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:718
+msgid "DISABLE product short description"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:725
+msgid "DISABLE product meta (sku, category, tag)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:748
+msgid "Single Product Image"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:750
+msgid "CLICK HERE to setup Main Image Width for products in the single product page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:758
+msgid "DISABLE product gallery zoom"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:766
+msgid "DISABLE product gallery lightbox"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:774
+msgid "DISABLE product gallery slider"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:783
+msgid ""
+"IMPORTANT: Live preview does not work for these options above. Please "
+"publish your changes and refresh to see the result"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:807
+msgid "DISABLE quantity input box"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:837
+#: includes/customizer/customizer-woocommerce.php:1133
+#: includes/customizer/customizer-woocommerce.php:1321
+msgid "Button Text"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:922
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:930
+msgid "Product description tab title"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:938
+msgid "DISABLE product description tab"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:946
+msgid "Product attributes (additional information) tab title"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:954
+msgid "DISABLE product attributes (additional information) tab"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:962
+msgid "Product review tab title"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:970
+msgid "DISABLE product review tab"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:978
+msgid "Tab Title Color"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:987
+msgid "Tab Title Color (Active)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:996
+msgid "Up-Sells Products"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1004
+msgid "DISABLE upsells products (if any)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1012
+#: includes/customizer/customizer-woocommerce.php:1055
+#: includes/customizer/customizer-woocommerce.php:1219
+msgid "Title Color"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1022
+#: includes/customizer/customizer-woocommerce.php:1065
+#: includes/customizer/customizer-woocommerce.php:1228
+msgid "(Max) Number of products to show"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1039
+msgid "Related Products"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1047
+msgid "DISABLE related products (if any)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1091
+msgid "WC - Cart Page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1093
+msgid "Sidebar is automatically disabled on Cart page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1102
+msgid "Coupon Form"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1109
+msgid "DISABLE coupon form on Cart page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1116
+#: includes/customizer/customizer-woocommerce.php:1304
+msgid "Button Colors"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1118
+#: includes/customizer/customizer-woocommerce.php:1306
+msgid ""
+"CLICK HERE to go to WC General settings to change WooCommerce default & "
+"primary (alt) button colors."
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1126
+msgid "\"Proceed to checkout\" Button"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1202
+msgid "Cross-sells Products"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1204
+msgid ""
+"Cross-sells products will be automatically disabled when "
+"[woocommerce_checkout] shortcode is detected on cart page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1212
+msgid "DISABLE cross-sells products (if any)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1236
+msgid "all"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1251
+msgid "WC - Checkout Page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1253
+msgid "Sidebar is automatically disabled on Checkout page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1262
+#: includes/customizer/customizer-woocommerce.php:1269
+msgid "Checkout Layout"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1274
+msgid "Default WooCommerce Checkout Layout"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1275
+msgid "Billing & Shipping (Left) + Order Review (Right)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1276
+msgid "One Column (Wide)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1277
+msgid "One Column (Slim)"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1283
+msgid "Login and Coupon Form"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1290
+msgid "DISABLE login form on Checkout page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1297
+msgid "DISABLE coupon form on Checkout page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1314
+msgid "\"Place order\" Button"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1390
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1392
+msgid "CLICK HERE to setup Privacy Policy on checkout page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1400
+msgid "Terms And Conditions"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1402
+msgid "CLICK HERE to setup Terms And Conditions on checkout page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1419
+msgid "WC - My Account Page"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1421
+msgid ""
+"Please edit \"%s\" page from WordPress Dashboard to customize the layout "
+"details using \"%s\" and \"%s\" metabox"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1421
+msgid "My Account"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1421
+msgid "Page Layout"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1421
+msgid "Site Header"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1430
+msgid "Page Redirect After Login"
+msgstr ""
+
+#: includes/customizer/customizer-woocommerce.php:1437
+msgid "Redirect to a page after customer login"
+msgstr ""
+
+#: includes/functions/function-data-source.php:24
+msgid "- Select Category -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:40
+msgid "- Select User -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:58
+msgid "- Select Post -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:77
+msgid "- Select Item -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:92
+msgid "- Select Page -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:107
+msgid "- Select Tag -"
+msgstr ""
+
+#: includes/functions/function-data-source.php:123
+msgid "- Select -"
+msgstr ""
+
+#: includes/functions/function-helpers.php:54
+msgid "Sticky"
+msgstr ""
+
+#: includes/functions/function-helpers.php:132
+msgid "Link to full-size image"
+msgstr ""
+
+#: includes/functions/function-helpers.php:132
+msgid "&times"
+msgstr ""
+
+#: includes/functions/function-helpers.php:142
+msgid "Return to"
+msgstr ""
+
+#: includes/functions/function-woocommerce.php:135
+msgid "Sold out!"
+msgstr ""
+
+#: includes/libraries/breadcrumb.php:20
+#: templates/header/parts/breadcrumb.php:33
+#: templates/header/parts/breadcrumb.php:48
+msgid "Home"
+msgstr ""
+
+#: includes/libraries/breadcrumb.php:30 includes/libraries/breadcrumb.php:33
+msgid "Page"
+msgstr ""
+
+#: includes/libraries/breadcrumb.php:108
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: includes/libraries/breadcrumb.php:113
+msgid "404 - Not Found"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:335
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:336
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:338
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:340
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:341
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:378
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:393
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:394
+#: includes/libraries/class-tgm-plugin-activation.php:913
+#: includes/libraries/class-tgm-plugin-activation.php:2619
+#: includes/libraries/class-tgm-plugin-activation.php:3647
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:395
+#: includes/libraries/class-tgm-plugin-activation.php:3245
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:396
+#: includes/libraries/class-tgm-plugin-activation.php:3038
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:398
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:400
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:402
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:608
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:609
+msgid "Update Required"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:1020
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:1020
+#: includes/libraries/class-tgm-plugin-activation.php:1023
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:1023
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2068
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2359
+msgid "Required"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2362
+msgid "Recommended"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2378
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2381
+msgid "External Source"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2384
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2401
+msgid "Not Installed"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2405
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2407
+msgid "Active"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2413
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2416
+msgid "Requires Update"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2419
+msgid "Update recommended"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2478
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2482
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2486
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2576
+msgid "Installed version:"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2584
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2596
+msgid "Available version:"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2619
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2633
+msgid "Plugin"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2634
+msgid "Source"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2635
+msgid "Type"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2639
+msgid "Version"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2640
+msgid "Status"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2689
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2694
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2700
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2770
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2803
+msgid "Install"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2809
+msgid "Update"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2812
+msgid "Activate"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2845
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2888
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2994
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3020
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3244
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3565
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3568
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3570
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3574
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3576
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3576
+#: includes/libraries/class-tgm-plugin-activation.php:3584
+msgid "Show Details"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3576
+#: includes/libraries/class-tgm-plugin-activation.php:3584
+msgid "Hide Details"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3577
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3579
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3582
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3584
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3585
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:3587
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:19
+msgid "Theme Settings - General"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:37
+#: includes/setup/setup-customizer.php:43
+#: includes/setup/setup-customizer.php:94
+msgid "Favicon"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:45
+msgid "Background"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:63
+#: includes/setup/setup-customizer.php:71
+msgid "Mobile Browser Tab Color"
+msgstr ""
+
+#: includes/setup/setup-customizer.php:80
+msgid "Hide Mobile Safari User Interface Components"
+msgstr ""
+
+#: includes/setup/setup-import.php:140
+msgid "Welcome to Tisara WP Demo Importer"
+msgstr ""
+
+#: includes/setup/setup-import.php:144
+msgid ""
+"Importing demo data (post, pages, images, theme settings, etc) is the "
+"easiest way to setup your theme. It will allow you to quickly edit "
+"everything instead of creating content from scratch. When you import the "
+"data, the following things might happen:"
+msgstr ""
+
+#: includes/setup/setup-import.php:149
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: includes/setup/setup-import.php:150
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any "
+"other data will be deleted or modified."
+msgstr ""
+
+#: includes/setup/setup-import.php:151
+msgid "Posts, pages, images, widgets and menus will get imported."
+msgstr ""
+
+#: includes/setup/setup-import.php:152
+msgid ""
+"Please click \"Import Demo Data\" button only once and wait, it can take a "
+"couple of minutes."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:9
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:11
+msgid ""
+"Appears on posts and pages, when enabled. If you want to leave it empty, "
+"add empty Text Widget here."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:21
+msgid "Footer #1"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:23
+msgid ""
+"Appears on footer widgets area (1st column), when enabled. If you want to "
+"leave it empty, add empty Text Widget here."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:33
+msgid "Footer #2"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:35
+msgid ""
+"Appears on footer widgets area (2nd column), when enabled. If you want to "
+"leave it empty, add empty Text Widget here."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:45
+msgid "Footer #3"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:47
+msgid ""
+"Appears on footer widgets area (3rd column), when enabled. If you want to "
+"leave it empty, add empty Text Widget here."
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:57
+msgid "Footer #4"
+msgstr ""
+
+#: includes/setup/setup-sidebars.php:59
+msgid "Appears on footer widgets area (4th column), when enabled."
+msgstr ""
+
+#: includes/setup/setup-woocommerce.php:55
+msgid "Shop"
+msgstr ""
+
+#: includes/setup/setup-woocommerce.php:57
+msgid ""
+"Appears on shop page, when enabled. If you want to leave it empty, add "
+"empty Text Widget here."
+msgstr ""
+
+#: includes/setup/setup-woocommerce.php:69
+msgid ""
+"Appears on single product page, when enabled. If you want to leave it "
+"empty, add empty Text Widget here."
+msgstr ""
+
+#: sidebar-product.php:14 sidebar-shop.php:14
+msgid "Archives"
+msgstr ""
+
+#: sidebar-product.php:22 sidebar-shop.php:22
+msgid "Meta"
+msgstr ""
+
+#: templates/content/content-notfound.php:9
+msgid "Ready to publish your first post? "
+msgstr ""
+
+#: templates/content/content-notfound.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content/content-notfound.php:22
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: templates/content/content-notfound.php:28
+msgid "HOME"
+msgstr ""
+
+#: templates/content/content-page.php:27
+#: templates/content/content-single.php:30 templates/content/content.php:35
+#: templates/content/layout/content-image.php:37
+#: templates/content/layout/content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/content.php:6 templates/content/layout/content-image.php:6
+#: templates/content/layout/content.php:6
+#: templates/content/layout/excerpt-image.php:6
+#: templates/content/layout/excerpt.php:6
+#: templates/content/layout/grid-2columns.php:6
+#: templates/content/layout/grid-3columns.php:6
+#: templates/content/layout/list-left.php:6
+#: templates/content/layout/list-right.php:6
+msgid "Continue reading &hellip;"
+msgstr ""
+
+#: templates/content/parts/extra-author.php:6
+msgid "About the author"
+msgstr ""
+
+#: templates/content/parts/nav.php:21
+msgid "Previous"
+msgstr ""
+
+#: templates/content/parts/nav.php:27
+msgid "Next"
+msgstr ""
+
+#: templates/footer/parts/text.php:10
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: templates/header/layout/style-5.php:42
+msgid "Header Banner"
+msgstr ""
+
+#: templates/header/parts/searchform.php:12 templates/searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: templates/header/parts/searchform.php:13
+msgid "Type a keywords and hit Enter &hellip;"
+msgstr ""
+
+#: templates/header/parts/title.php:102
+msgid "Search Results"
+msgstr ""
+
+#: templates/searchform.php:12
+msgid "Search&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Tisara WP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://tisara.selaraswp.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium WooCommerce WordPress Theme from SelarasWP"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SelarasWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.selaraswp.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder (Boxed)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder (Full Width)"
+msgstr ""
+
+#: comments.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:1207
+#: includes/libraries/class-tgm-plugin-activation.php:3034
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2428
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2474
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/class-tgm-plugin-activation.php:2568
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

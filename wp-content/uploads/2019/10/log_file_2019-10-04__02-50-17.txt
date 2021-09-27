@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Tisara Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://demo2.tokomoo.com/tisara
+Data file = /home/tokomoodemo/webapps/tokomoodemo/wp-content/uploads/sites/12/2019/10/demo-content-import-file_2019-10-04__02-50-17.xml
+Widget file = /home/tokomoodemo/webapps/tokomoodemo/wp-content/uploads/sites/12/2019/10/demo-widgets-import-file_2019-10-04__02-50-17.json
+Customizer file = /home/tokomoodemo/webapps/tokomoodemo/wp-content/uploads/sites/12/2019/10/demo-customizer-import-file_2019-10-04__02-50-17.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Calendar - Calendar - Imported
+
+Footer #1 : 
+
+Text - Sarah Theme - Imported
+
+Footer #2 : 
+
+Recent Posts - Recent Post - Imported
+
+Footer #3 : 
+
+Products - Featured Product - Imported
+
+Footer #4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
